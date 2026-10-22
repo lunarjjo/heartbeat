@@ -36,3 +36,5 @@ jobs:
             git commit -m "pulse: $(date -u +'%Y-%m-%d %H:%M UTC') [skip ci]"
             git push
           fi
+
+# registrasi ulang jadwal via git push asli — 2026-10-22T13:20Z
