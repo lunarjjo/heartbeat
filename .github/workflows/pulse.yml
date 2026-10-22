@@ -2,7 +2,9 @@ name: Pulse
 
 on:
   schedule:
-    - cron: "7 * * * *"   # setiap jam, menit ke-7
+    - cron: "7 * * * *"    # setiap jam, menit ke-7
+    - cron: "23 * * * *"   # cadangan — Actions sering delay (insiden Okt 2026)
+    - cron: "41 * * * *"   # cadangan kedua — 3 peluang per jam
   workflow_dispatch:        # bisa dipicu manual / via API
 
 permissions:
