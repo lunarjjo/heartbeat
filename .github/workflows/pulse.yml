@@ -2,7 +2,7 @@ name: Pulse
 
 on:
   schedule:
-    - cron: "7 * * * *"   # setiap jam, menit ke-7 (hindari menit ramai)
+    - cron: "7 * * * *"   # setiap jam, menit ke-7
   workflow_dispatch:        # bisa dipicu manual / via API
 
 permissions:
@@ -15,12 +15,14 @@ concurrency:
 jobs:
   pulse:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 9
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update pulse (status, log, badge)
+      - name: Update pulse v2 (status, watch pemilik, ide, tren, jurnal, badge)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # token bawaan Actions — bukan PAT pemilik
         run: python3 pulse.py
 
       - name: Commit & push
