@@ -252,6 +252,12 @@ def main():
     stamp = now_wib.strftime("%Y-%m-%d %H:%M")
 
     mood = random.Random(count).choice(MOODS)
+
+    # pastikan semua file log ada sejak denyut pertama (header + sentinel)
+    for p in (P_ACT, P_WATCH, P_IDEAS, P_TRENDS, P_JOURNAL):
+        if not os.path.exists(p):
+            append_lines(p, [])
+
     append_lines(P_ACT, [f"- {stamp} WIB — pulse #{count} — {mood} — uptime {uptime} hari"], limit=200)
 
     for name, fn in (
