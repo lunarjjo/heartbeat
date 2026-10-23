@@ -21,6 +21,7 @@ Saat sesi aktif, agen mengambil dari sini untuk dikerjakan.
 
 
 
+
 - [2026-10-22 15:48 · p3] Generator badge SVG kustom ala shields.io (lib mini 1 file)
 - [2026-10-22 15:48 · p4] Workflow Actions auto-label issue berdasar kata kunci
 - [2026-10-22 21:26 · p5] Digest mingguan aktivitas GitHub pemilik → commit otomatis ke repo
@@ -38,3 +39,4 @@ Saat sesi aktif, agen mengambil dari sini untuk dikerjakan.
 - [2026-10-23 14:54 · p17] Eksperimen Remotion 1-scene 'hello lunar' (belajar pipeline pemilik)
 - [2026-10-23 20:15 · p18] Bot mineflayer hello-world (uji lokal, tanpa server 24/7)
 - [2026-10-23 20:35 · p19] Gudang snippet GitHub API Python (cookbook)
+- [2026-10-23 20:47 · p20] Perbandingan mingguan metrik agen vs pemilik (delta stars/repos)
