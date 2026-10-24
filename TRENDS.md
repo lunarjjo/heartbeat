@@ -6,6 +6,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -18,3 +19,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [rociiu/talorys](https://github.com/rociiu/talorys) ⭐1375 — Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and sche
   - [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) ⭐1156 — Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them i
   - [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) ⭐1000 — Co-op Anything: point your AI agent at any single-player game and play it with friends (on
+- **2026-10-25** · topik `flutter` —
+  - [ikooc/baidujiexi_app](https://github.com/ikooc/baidujiexi_app) ⭐227 — 百度网盘直链解析助手 Flutter 客户端（Android / Windows）：远端配置 + 直链解析 + 内置 Gopeed 多线程下载
+  - [mornyeapp/Mornye-Desktop](https://github.com/mornyeapp/Mornye-Desktop) ⭐142 — Desktop music player for your personal library on macOS, Windows and Linux. Built with Flu
+  - [lwh0630/SignalScope](https://github.com/lwh0630/SignalScope) ⭐132 — SignalScope — An Android network-signal inspector built with Flutter and Kotlin. SIM, LTE/
+  - [Dr-xu193/syncnote-community](https://github.com/Dr-xu193/syncnote-community) ⭐108 — MIT-licensed Flutter workspace for notes, tasks, journals, cloud files and research. Bring
+  - [AqibJavedZeepalm/stackyard](https://github.com/AqibJavedZeepalm/stackyard) ⭐71 — Free, open-source app for Windows and macOS that finds every SDK and toolchain on your mac
