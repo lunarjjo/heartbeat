@@ -8,6 +8,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -29,3 +30,8 @@ Scan harian otomatis — topik berotasi tiap hari.
 - **2026-10-26** · topik `creative coding` —
   - [pycodebr/heditor](https://github.com/pycodebr/heditor) ⭐97 — Creative vertical video editing skill for AI agents (Claude Code, Codex, OpenCode, Cursor,
   - [midasmatterhorn/artcraft-skills](https://github.com/midasmatterhorn/artcraft-skills) ⭐42 — Agent skills (SKILL.md) for the ArtCraft Rust creative suite — evidence-verified, MCP/CLI 
+- **2026-10-27** · topik `llm tooling` —
+  - [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk) ⭐210 — Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and
+  - [smhanov/agentloop](https://github.com/smhanov/agentloop) ⭐80 — Everything you need for building an agent. A Go library for the LLM tool-calling loop with
+  - [anisayari/sparky](https://github.com/anisayari/sparky) ⭐61 — 🔒 Your private AI assistant, 100% local on Windows: chat, vision, documents (RAG), web sea
+  - [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) ⭐49 — Measure and safely cut the token cost of LLM tool and MCP schemas, with equivalence checki
