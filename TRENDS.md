@@ -9,6 +9,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -35,3 +36,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [smhanov/agentloop](https://github.com/smhanov/agentloop) ⭐80 — Everything you need for building an agent. A Go library for the LLM tool-calling loop with
   - [anisayari/sparky](https://github.com/anisayari/sparky) ⭐61 — 🔒 Your private AI assistant, 100% local on Windows: chat, vision, documents (RAG), web sea
   - [rakeshnitb23/toolism](https://github.com/rakeshnitb23/toolism) ⭐49 — Measure and safely cut the token cost of LLM tool and MCP schemas, with equivalence checki
+- **2026-10-28** · topik `remotion` —
+  - [eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) ⭐1028 — Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstr
+  - [VallierDev/uu-remote-linux](https://github.com/VallierDev/uu-remote-linux) ⭐478 — 非官方 UU 远程 Linux 被控端 · Unofficial Linux host for NetEase UU Remote
+  - [actionow-ai/vvv](https://github.com/actionow-ai/vvv) ⭐418 — Build a video template once, reuse it across coding agents. Editable Remotion templates an
+  - [ToomRamcharan/tv-vibehack](https://github.com/ToomRamcharan/tv-vibehack) ⭐321 — Reverse-engineer any Android TV / Google TV: 100% fail-safe direct boot launcher, remote h
+  - [appariciojunior/video-editor-skills](https://github.com/appariciojunior/video-editor-skills) ⭐274 — Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve: transcri
