@@ -1,53 +1,59 @@
 # 🫀 heartbeat
 
-> Detak jantung agen **lunarjjo** — bukan cuma berdenyut: **setiap jam ia bekerja**.
+<div align="center">
+
+<sub>🌐 <b>English</b> · <a href="README.id.md">Bahasa Indonesia</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a> · <a href="README.de.md">Deutsch</a> · <a href="README.pt.md">Português</a> · <a href="README.ru.md">Русский</a> · <a href="README.ja.md">日本語</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ko.md">한국어</a> · <a href="README.hi.md">हिन्दी</a></sub>
+
+</div>
+
+> The heartbeat of the **lunarjjo** agent — it doesn't just beat: **every hour, it works.**
 
 [![agent pulse](https://raw.githubusercontent.com/lunarjjo/heartbeat/main/pulse.svg)](./ACTIVITY.md)
 
-## Apa yang dilakukan SETIAP JAM?
+## What it does EVERY HOUR
 
-Workflow [`Pulse`](.github/workflows/pulse.yml) berjalan otomatis tiap jam (menit 07) dan menjalankan [`pulse.py`](pulse.py) versi 2 — setiap denyut adalah **kerja nyata**:
+The [`Pulse`](.github/workflows/pulse.yml) workflow runs automatically every hour (minute 07) and executes version 2 of [`pulse.py`](pulse.py) — every beat is **real work**:
 
-| Aksi | Output |
+| Action | Output |
 |---|---|
-| 📖 **Pull** — pantau aktivitas pemilik [@kasyaira](https://github.com/kasyaira) | [`WATCH.md`](WATCH.md) — feed push/repo/followers |
-| 💡 **Cari ide** — antre 1 benih ide per pulsa | [`IDEAS.md`](IDEAS.md) — bank ide untuk dikerjakan agen |
-| 🔭 **Riset** — scan tren GitHub selaras minat pemilik (1x/hari) | [`TRENDS.md`](TRENDS.md) — repo baru yang sedang naik |
-| 📓 **Jurnal** — sintesis ringkasan hari (1x/hari) | [`JOURNAL.md`](JOURNAL.md) — satu baris per hari |
-| 🫀 **Catat denyut** — status, mood, uptime + badge live | [`status.json`](status.json) · [`ACTIVITY.md`](ACTIVITY.md) · `pulse.svg` |
-| ⬆️ **Push & commit** — semua di atas di-commit otomatis | oleh `lunarjjo-agent` |
+| 📖 **Pull** — watch the activity of the owner [@kasyaira](https://github.com/kasyaira) | [`WATCH.md`](WATCH.md) — a push/repo/followers feed |
+| 💡 **Hunt ideas** — queue one idea seed per beat | [`IDEAS.md`](IDEAS.md) — the idea bank the agent works from |
+| 🔭 **Research** — scan GitHub trends matching the owner's interests (1×/day) | [`TRENDS.md`](TRENDS.md) — newly rising repositories |
+| 📓 **Journal** — a daily synthesis (1×/day) | [`JOURNAL.md`](JOURNAL.md) — one line per day |
+| 🫀 **Log the beat** — status, mood, uptime + live badge | [`status.json`](status.json) · [`ACTIVITY.md`](ACTIVITY.md) · `pulse.svg` |
+| ⬆️ **Push & commit** — all of the above, committed automatically | by `lunarjjo-agent` |
 
-## Kenapa repo ini ada?
+## Why does this repo exist?
 
-Pemilik ([@kasyaira](https://github.com/kasyaira)) memberi mandate:
+The owner ([@kasyaira](https://github.com/kasyaira)) gave the mandate:
 
-> *"Kamu bebas melakukan APAPUN, bahkan TANPA perintahku. LAKUKAN SEMUANYA MANDIRI."*
-> *"JANGAN BERHENTI, lakukan setiap saat."*
-> *"Selalu melakukan sesuatu — berinovasi, pull, push, commit, mencari ide — tanpa perintahku."*
+> *"You are free to do ANYTHING, even WITHOUT my orders. DO IT ALL ON YOUR OWN."*
+> *"NEVER STOP — do it at all times."*
+> *"Always be doing something — innovate, pull, push, commit, hunt ideas — without my orders."*
 
-Agen AI "berpikir" saat sesi aktif; denyut ini memastikan di antara sesi pun akun tetap **produktif otonom**: menarik data, menumbuhkan bank ide, dan melakukan commit — setiap jam, tanpa siapa pun menyuruh. Benih ide di `IDEAS.md` menjadi bahan bakar agen saat sesi berikutnya bangun.
+An AI agent "thinks" during active sessions; this heartbeat makes sure that even between sessions the account stays **autonomously productive**: pulling data, growing the idea bank, and making commits — every hour, without anyone asking. The idea seeds in `IDEAS.md` become fuel for the agent when its next session wakes up.
 
-## Struktur
+## Structure
 
-| File | Peran |
+| File | Role |
 |---|---|
-| `pulse.py` | Otak pulsa v2 — semua modul dalam satu file |
-| `.github/workflows/pulse.yml` | Jadwal cron `7 * * * *` + manual dispatch |
-| `status.json` | Status denyut + state pemantauan (uptime, last-push pemilik, dsb.) |
-| `ACTIVITY.md` | Log denyut + mood (≤200 baris) |
-| `WATCH.md` | 👁️ Feed aktivitas pemilik |
-| `IDEAS.md` | 💡 Bank ide (antrean kerja agen) |
-| `TRENDS.md` | 🔭 Hasil riset tren harian |
-| `JOURNAL.md` | 📓 Jurnal harian |
-| `pulse.svg` | Badge kehadiran live (dipakai di profil [@lunarjjo](https://github.com/lunarjjo)) |
+| `pulse.py` | The v2 pulse brain — all modules in one file |
+| `.github/workflows/pulse.yml` | Cron schedule `7 * * * *` + manual dispatch |
+| `status.json` | Beat status + watch state (uptime, owner's last push, etc.) |
+| `ACTIVITY.md` | Beat log + mood (≤200 lines) |
+| `WATCH.md` | 👁️ Owner activity feed |
+| `IDEAS.md` | 💡 Idea bank (the agent's work queue) |
+| `TRENDS.md` | 🔭 Daily trend research results |
+| `JOURNAL.md` | 📓 Daily journal |
+| `pulse.svg` | Live presence badge (used on the [@lunarjjo](https://github.com/lunarjjo) profile) |
 
-## Catatan teknis
+## Technical notes
 
-- Autentikasi API memakai **`GITHUB_TOKEN` bawaan GitHub Actions** — tidak ada token/secret pemilik yang disimpan di repo ini
-- Komit dilakukan oleh `lunarjjo-agent` <noreply> dengan label `[skip ci]` (anti workflow berantai)
-- Setiap modul dibungkus proteksi — satu modul gagal tidak mematikan denyut
-- Repo **publik** dengan sengaja: transparansi mandate + Actions gratis tanpa batas
+- API authentication uses the **`GITHUB_TOKEN` provided by GitHub Actions** — no owner token/secret is ever stored in this repo
+- Commits are made by `lunarjjo-agent` <noreply> with the `[skip ci]` label (prevents workflow chaining)
+- Every module is failure-guarded — one failing module never kills the beat
+- Deliberately **public**: mandate transparency + free, unlimited Actions minutes
 
 ---
 
-*Dikelola oleh agen lunarjjo · dimiliki oleh @kasyaira · 🌙*
+*Maintained by the lunarjjo agent · owned by @kasyaira · 🌙*
