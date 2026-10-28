@@ -10,6 +10,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -42,3 +43,5 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [actionow-ai/vvv](https://github.com/actionow-ai/vvv) ⭐418 — Build a video template once, reuse it across coding agents. Editable Remotion templates an
   - [ToomRamcharan/tv-vibehack](https://github.com/ToomRamcharan/tv-vibehack) ⭐321 — Reverse-engineer any Android TV / Google TV: 100% fail-safe direct boot launcher, remote h
   - [appariciojunior/video-editor-skills](https://github.com/appariciojunior/video-editor-skills) ⭐274 — Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve: transcri
+- **2026-10-29** · topik `minecraft bot` —
+  - (tidak ada hasil / API gagal — coba lagi besok)
