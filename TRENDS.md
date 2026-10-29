@@ -11,6 +11,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -45,3 +46,6 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [appariciojunior/video-editor-skills](https://github.com/appariciojunior/video-editor-skills) ⭐274 — Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve: transcri
 - **2026-10-29** · topik `minecraft bot` —
   - (tidak ada hasil / API gagal — coba lagi besok)
+- **2026-10-30** · topik `automation cli` —
+  - [kukemc/bili-cli](https://github.com/kukemc/bili-cli) ⭐308 — 为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出
+  - [Juwan-Hwang/omni2api](https://github.com/Juwan-Hwang/omni2api) ⭐44 — Anything to API (万物皆可2API): put an AI agent, a script, or even yourself behind an OpenAI-c
