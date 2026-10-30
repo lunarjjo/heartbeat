@@ -12,6 +12,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -49,3 +50,8 @@ Scan harian otomatis — topik berotasi tiap hari.
 - **2026-10-30** · topik `automation cli` —
   - [kukemc/bili-cli](https://github.com/kukemc/bili-cli) ⭐308 — 为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出
   - [Juwan-Hwang/omni2api](https://github.com/Juwan-Hwang/omni2api) ⭐44 — Anything to API (万物皆可2API): put an AI agent, a script, or even yourself behind an OpenAI-c
+- **2026-10-31** · topik `github actions` —
+  - [winnin/farol](https://github.com/winnin/farol) ⭐169 — Know the risk of merging a pull request, and where it lives. Free, open-source CLI and Git
+  - [sanjayadanushka712/TaskFlow](https://github.com/sanjayadanushka712/TaskFlow) ⭐125 — End-to-end DevOps TaskFlow API — FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker Compose,
+  - [codician-team/diffinery](https://github.com/codician-team/diffinery) ⭐72 — Open-source, agent-first GitHub and GitHub Actions alternative that runs on your own Cloud
+  - [Spectrmachina/Ztrust](https://github.com/Spectrmachina/Ztrust) ⭐65 — Zero-trust supply-chain security for open source: detects malicious & vulnerable dependenc
