@@ -13,6 +13,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -55,3 +56,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [sanjayadanushka712/TaskFlow](https://github.com/sanjayadanushka712/TaskFlow) ⭐125 — End-to-end DevOps TaskFlow API — FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker Compose,
   - [codician-team/diffinery](https://github.com/codician-team/diffinery) ⭐72 — Open-source, agent-first GitHub and GitHub Actions alternative that runs on your own Cloud
   - [Spectrmachina/Ztrust](https://github.com/Spectrmachina/Ztrust) ⭐65 — Zero-trust supply-chain security for open source: detects malicious & vulnerable dependenc
+- **2026-11-01** · topik `ai agent` —
+  - [wangzan101/Mika](https://github.com/wangzan101/Mika) ⭐2548 — Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps
+  - [CopilotKit/OpenDuet](https://github.com/CopilotKit/OpenDuet) ⭐1711 — An Open Source template for a proactive AI agent that gets your work done and keeps you in
+  - [qybaihe/bla](https://github.com/qybaihe/bla) ⭐1677 — 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron ap
+  - [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) ⭐1581 — AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing st
+  - [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) ⭐1395 — Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, mi
