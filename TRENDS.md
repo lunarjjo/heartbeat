@@ -14,6 +14,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -62,3 +63,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [qybaihe/bla](https://github.com/qybaihe/bla) ⭐1677 — 🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron ap
   - [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) ⭐1581 — AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing st
   - [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) ⭐1395 — Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, mi
+- **2026-11-02** · topik `flutter` —
+  - [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) ⭐4561 — dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
+  - [mornyeapp/Mornye-Desktop](https://github.com/mornyeapp/Mornye-Desktop) ⭐222 — Desktop music player for your personal library on macOS, Windows and Linux. Built with Flu
+  - [lwh0630/TokenBar](https://github.com/lwh0630/TokenBar) ⭐189 — Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows,
+  - [beilunyang/openhongguo](https://github.com/beilunyang/openhongguo) ⭐183 — 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI
+  - [Dr-xu193/syncnote-community](https://github.com/Dr-xu193/syncnote-community) ⭐106 — MIT-licensed Flutter workspace for notes, tasks, journals, cloud files and research. Bring
