@@ -15,6 +15,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -69,3 +70,5 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [lwh0630/TokenBar](https://github.com/lwh0630/TokenBar) ⭐189 — Open-source, cross-platform AI quota monitor (Codex, Claude, Cursor and 47 more). Windows,
   - [beilunyang/openhongguo](https://github.com/beilunyang/openhongguo) ⭐183 — 红果短剧的非官方匿名 SDK，提供 Go、Node.js、Android、iOS、React Native 和 Flutter 版本，附命令行演示程序 ohg CLI
   - [Dr-xu193/syncnote-community](https://github.com/Dr-xu193/syncnote-community) ⭐106 — MIT-licensed Flutter workspace for notes, tasks, journals, cloud files and research. Bring
+- **2026-11-03** · topik `creative coding` —
+  - (tidak ada hasil / API gagal — coba lagi besok)
