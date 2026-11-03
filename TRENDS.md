@@ -16,6 +16,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -72,3 +73,8 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [Dr-xu193/syncnote-community](https://github.com/Dr-xu193/syncnote-community) ⭐106 — MIT-licensed Flutter workspace for notes, tasks, journals, cloud files and research. Bring
 - **2026-11-03** · topik `creative coding` —
   - (tidak ada hasil / API gagal — coba lagi besok)
+- **2026-11-04** · topik `llm tooling` —
+  - [Balanov/uncut](https://github.com/Balanov/uncut) ⭐588 — The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain std
+  - [smhanov/agentloop](https://github.com/smhanov/agentloop) ⭐139 — Everything you need for building an agent. A Go library for the LLM tool-calling loop with
+  - [yc-software/minecraft-agent-harness](https://github.com/yc-software/minecraft-agent-harness) ⭐127 — Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shel
+  - [Faixiang/Moodle-MCP](https://github.com/Faixiang/Moodle-MCP) ⭐67 — Zero-dependency MCP server for the Moodle Web Service API — read-only course, assignment, 
