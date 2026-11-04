@@ -17,6 +17,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -78,3 +79,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [smhanov/agentloop](https://github.com/smhanov/agentloop) ⭐139 — Everything you need for building an agent. A Go library for the LLM tool-calling loop with
   - [yc-software/minecraft-agent-harness](https://github.com/yc-software/minecraft-agent-harness) ⭐127 — Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shel
   - [Faixiang/Moodle-MCP](https://github.com/Faixiang/Moodle-MCP) ⭐67 — Zero-dependency MCP server for the Moodle Web Service API — read-only course, assignment, 
+- **2026-11-05** · topik `remotion` —
+  - [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) ⭐1459 — Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js
+  - [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) ⭐703 — 逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, s
+  - [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath) ⭐511 — remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writ
+  - [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) ⭐459 — A blazingly fast programmatic video engine, made for agents.
+  - [yetone/alma-relay](https://github.com/yetone/alma-relay) ⭐450 — Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, an
