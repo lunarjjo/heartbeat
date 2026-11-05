@@ -18,6 +18,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -85,3 +86,5 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [MarkBlah/smsofdeath](https://github.com/MarkBlah/smsofdeath) ⭐511 — remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writ
   - [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) ⭐459 — A blazingly fast programmatic video engine, made for agents.
   - [yetone/alma-relay](https://github.com/yetone/alma-relay) ⭐450 — Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, an
+- **2026-11-06** · topik `minecraft bot` —
+  - (tidak ada hasil / API gagal — coba lagi besok)
