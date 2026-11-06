@@ -19,6 +19,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -88,3 +89,7 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [yetone/alma-relay](https://github.com/yetone/alma-relay) ⭐450 — Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, an
 - **2026-11-06** · topik `minecraft bot` —
   - (tidak ada hasil / API gagal — coba lagi besok)
+- **2026-11-07** · topik `automation cli` —
+  - [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) ⭐3627 — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
+  - [PortParakeetShift/clion](https://github.com/PortParakeetShift/clion) ⭐200 — CLion 2026 pre-configured environment for automated deployment pipeline in professional de
+  - [hubastard/speedrun](https://github.com/hubastard/speedrun) ⭐100 — Fastest cross-platform E2E Automation for Mobile & Web
