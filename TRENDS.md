@@ -20,6 +20,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -93,3 +94,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) ⭐3627 — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
   - [PortParakeetShift/clion](https://github.com/PortParakeetShift/clion) ⭐200 — CLion 2026 pre-configured environment for automated deployment pipeline in professional de
   - [hubastard/speedrun](https://github.com/hubastard/speedrun) ⭐100 — Fastest cross-platform E2E Automation for Mobile & Web
+- **2026-11-08** · topik `github actions` —
+  - [kunchenguid/runner-up](https://github.com/kunchenguid/runner-up) ⭐285 — GitHub Actions runners on your own machines, one fresh container or VM per job. Completely
+  - [sanjayadanushka712/TaskFlow](https://github.com/sanjayadanushka712/TaskFlow) ⭐137 — End-to-end DevOps TaskFlow API — FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker Compose,
+  - [codician-team/diffinery](https://github.com/codician-team/diffinery) ⭐82 — Open-source, agent-first GitHub and GitHub Actions alternative that runs on your own Cloud
+  - [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) ⭐76 — Animated SVG stat cards for your GitHub profile README, counting private and organization 
+  - [TrollisUnderworld/TickTock-rpocket-Automation](https://github.com/TrollisUnderworld/TickTock-rpocket-Automation) ⭐62 — An automated pipeline built with Python, Supabase, and Buffer to generate motivational vid
