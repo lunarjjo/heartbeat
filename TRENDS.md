@@ -21,6 +21,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -100,3 +101,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [codician-team/diffinery](https://github.com/codician-team/diffinery) ⭐82 — Open-source, agent-first GitHub and GitHub Actions alternative that runs on your own Cloud
   - [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) ⭐76 — Animated SVG stat cards for your GitHub profile README, counting private and organization 
   - [TrollisUnderworld/TickTock-rpocket-Automation](https://github.com/TrollisUnderworld/TickTock-rpocket-Automation) ⭐62 — An automated pipeline built with Python, Supabase, and Buffer to generate motivational vid
+- **2026-11-09** · topik `ai agent` —
+  - [wangzan101/Mika](https://github.com/wangzan101/Mika) ⭐7723 — An on-device AI agent for Android that operates apps and the web to get things done for yo
+  - [benjitaylor/skills](https://github.com/benjitaylor/skills) ⭐2622 — Skills for AI coding agents.
+  - [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) ⭐1873 — AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing st
+  - [sarpstar/cinecode](https://github.com/sarpstar/cinecode) ⭐1482 — Films made with code. Short films, long YouTube videos, ads, explainers and music videos: 
+  - [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs) ⭐1084 — This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Clau
