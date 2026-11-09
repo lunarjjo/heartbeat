@@ -22,6 +22,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -107,3 +108,6 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) ⭐1873 — AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing st
   - [sarpstar/cinecode](https://github.com/sarpstar/cinecode) ⭐1482 — Films made with code. Short films, long YouTube videos, ads, explainers and music videos: 
   - [cutetailbud/ff-ruyijs](https://github.com/cutetailbud/ff-ruyijs) ⭐1084 — This is a lightweight, headless browser purpose-built for AI agents (such as Codex or Clau
+- **2026-11-10** · topik `flutter` —
+  - [ElfsunGhost/resp-Elysian](https://github.com/ElfsunGhost/resp-Elysian) ⭐54 — Elysian: Calm Nights, Infinite Stories. An Open-source OTT platform. Just like Netflix, Am
+  - [teikengstudio/XMPlus](https://github.com/teikengstudio/XMPlus) ⭐43 — XMPlus — Flutter 编写的喜马拉雅第三方客户端。
