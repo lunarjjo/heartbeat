@@ -24,6 +24,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -114,3 +115,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [teikengstudio/XMPlus](https://github.com/teikengstudio/XMPlus) ⭐43 — XMPlus — Flutter 编写的喜马拉雅第三方客户端。
 - **2026-11-11** · topik `creative coding` —
   - [Harducmarsh/UJT-Immortal-Tamed-rpocket-Pets](https://github.com/Harducmarsh/UJT-Immortal-Tamed-rpocket-Pets) ⭐52 — A simple mod for minecraft that makes any pet or animal that has been tamed immortal by mi
+- **2026-11-12** · topik `llm tooling` —
+  - [Balanov/uncut](https://github.com/Balanov/uncut) ⭐265 — The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain std
+  - [yc-software/minecraft-agent-harness](https://github.com/yc-software/minecraft-agent-harness) ⭐204 — Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shel
+  - [0x45dd/pwner](https://github.com/0x45dd/pwner) ⭐82 — Autonomous agentic network penetration-testing tool (authorized use only)
+  - [TyrantShadowfellangel/repdix-rpocket-team](https://github.com/TyrantShadowfellangel/repdix-rpocket-team) ⭐56 — Универсальный Telegram-бот-оркестратор для общения с базами данных (MySQL, PostgreSQL, SQL
+  - [quyetcao/ai-manus](https://github.com/quyetcao/ai-manus) ⭐54 — AI Manus is a general-purpose AI Agent system that supports running various tools and oper
