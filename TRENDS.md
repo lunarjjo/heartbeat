@@ -25,6 +25,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -121,3 +122,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [0x45dd/pwner](https://github.com/0x45dd/pwner) ⭐82 — Autonomous agentic network penetration-testing tool (authorized use only)
   - [TyrantShadowfellangel/repdix-rpocket-team](https://github.com/TyrantShadowfellangel/repdix-rpocket-team) ⭐56 — Универсальный Telegram-бот-оркестратор для общения с базами данных (MySQL, PostgreSQL, SQL
   - [quyetcao/ai-manus](https://github.com/quyetcao/ai-manus) ⭐54 — AI Manus is a general-purpose AI Agent system that supports running various tools and oper
+- **2026-11-13** · topik `remotion` —
+  - [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) ⭐3086 — Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js
+  - [sqlpxc/airhand](https://github.com/sqlpxc/airhand) ⭐1213 — High-performance, low-latency remote desktop QUIC transport · hardware encoding and decodi
+  - [yetone/alma-relay](https://github.com/yetone/alma-relay) ⭐519 — Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, an
+  - [AkaraChen/cc-remote](https://github.com/AkaraChen/cc-remote) ⭐382 — Claude Code with the model on a remote host and the tools on your machine
+  - [TomyJan/SnowLuma](https://github.com/TomyJan/SnowLuma) ⭐373 — Next Remote Protocol Framework.
