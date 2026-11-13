@@ -26,6 +26,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -128,3 +129,6 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [yetone/alma-relay](https://github.com/yetone/alma-relay) ⭐519 — Self-host the relay for Alma Remote Access — control your desktop Alma from your phone, an
   - [AkaraChen/cc-remote](https://github.com/AkaraChen/cc-remote) ⭐382 — Claude Code with the model on a remote host and the tools on your machine
   - [TomyJan/SnowLuma](https://github.com/TomyJan/SnowLuma) ⭐373 — Next Remote Protocol Framework.
+- **2026-11-14** · topik `minecraft bot` —
+  - [sentinelsoldierprize/Minecraft-AFK-Bot](https://github.com/sentinelsoldierprize/Minecraft-AFK-Bot) ⭐119 — Lightweight Minecraft Anti-AFK bot with a web dashboard. Keeps your account online 24/7, s
+  - [Proudiaknight/Meteor-Sonar-Bypass-resp](https://github.com/Proudiaknight/Meteor-Sonar-Bypass-resp) ⭐52 — A Meteor Addon for minecraft 1.21.11 to bypass Sonar Anti Bot
