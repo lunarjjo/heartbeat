@@ -27,6 +27,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -132,3 +133,9 @@ Scan harian otomatis — topik berotasi tiap hari.
 - **2026-11-14** · topik `minecraft bot` —
   - [sentinelsoldierprize/Minecraft-AFK-Bot](https://github.com/sentinelsoldierprize/Minecraft-AFK-Bot) ⭐119 — Lightweight Minecraft Anti-AFK bot with a web dashboard. Keeps your account online 24/7, s
   - [Proudiaknight/Meteor-Sonar-Bypass-resp](https://github.com/Proudiaknight/Meteor-Sonar-Bypass-resp) ⭐52 — A Meteor Addon for minecraft 1.21.11 to bypass Sonar Anti Bot
+- **2026-11-15** · topik `automation cli` —
+  - [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) ⭐5325 — 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。
+  - [brunnojob/cifuse](https://github.com/brunnojob/cifuse) ⭐112 — Turn noisy CI logs into grouped failures, exact evidence and investigation steps. Offline 
+  - [brunnojob/reporelief](https://github.com/brunnojob/reporelief) ⭐102 — Turn repository maintenance into an actionable plan. Local-first CLI + browser workbench f
+  - [NimamoceanVenom/resocket-clinic-flow](https://github.com/NimamoceanVenom/resocket-clinic-flow) ⭐90 — n8n automation that sends a doctor today's patient list on Telegram every morning at 8:30 
+  - [AbyssBehindPhoton/Youtube-resocket-Automation-Suite](https://github.com/AbyssBehindPhoton/Youtube-resocket-Automation-Suite) ⭐86 — YouTube automation tool with GUI & CLI for managing likes, comments, and  subscriptions. P
