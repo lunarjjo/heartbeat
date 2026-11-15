@@ -28,6 +28,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -139,3 +140,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [brunnojob/reporelief](https://github.com/brunnojob/reporelief) ⭐102 — Turn repository maintenance into an actionable plan. Local-first CLI + browser workbench f
   - [NimamoceanVenom/resocket-clinic-flow](https://github.com/NimamoceanVenom/resocket-clinic-flow) ⭐90 — n8n automation that sends a doctor today's patient list on Telegram every morning at 8:30 
   - [AbyssBehindPhoton/Youtube-resocket-Automation-Suite](https://github.com/AbyssBehindPhoton/Youtube-resocket-Automation-Suite) ⭐86 — YouTube automation tool with GUI & CLI for managing likes, comments, and  subscriptions. P
+- **2026-11-16** · topik `github actions` —
+  - [pedrocatalao/github-cool-readme](https://github.com/pedrocatalao/github-cool-readme) ⭐171 — Animated SVG stats cards for your GitHub profile README, counting private and organization
+  - [brunnojob/cifuse](https://github.com/brunnojob/cifuse) ⭐158 — Turn noisy CI logs into grouped failures, exact evidence and investigation steps. Offline 
+  - [brunnojob/devrescue](https://github.com/brunnojob/devrescue) ⭐112 — Developer friction, diagnosed. Local-first CI log triage, environment checks, reviewed fix
+  - [faissalrez/svelte-check-reporter](https://github.com/faissalrez/svelte-check-reporter) ⭐73 — Show svelte-check's Svelte and TypeScript errors in GitHub pull requests and GitLab merge 
+  - [react-native-feel/react-native-deploy](https://github.com/react-native-feel/react-native-deploy) ⭐66 — Ship React Native and Expo apps without a Mac: eas build/submit as rnd, running on your ow
