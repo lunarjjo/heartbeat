@@ -29,6 +29,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -146,3 +147,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [brunnojob/devrescue](https://github.com/brunnojob/devrescue) ⭐112 — Developer friction, diagnosed. Local-first CI log triage, environment checks, reviewed fix
   - [faissalrez/svelte-check-reporter](https://github.com/faissalrez/svelte-check-reporter) ⭐73 — Show svelte-check's Svelte and TypeScript errors in GitHub pull requests and GitLab merge 
   - [react-native-feel/react-native-deploy](https://github.com/react-native-feel/react-native-deploy) ⭐66 — Ship React Native and Expo apps without a Mac: eas build/submit as rnd, running on your ow
+- **2026-11-17** · topik `ai agent` —
+  - [sarpstar/cinecode](https://github.com/sarpstar/cinecode) ⭐2601 — Films made with code. Short films, long YouTube videos, ads, explainers and music videos: 
+  - [DIYgod/pinky](https://github.com/DIYgod/pinky) ⭐2287 — Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, W
+  - [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) ⭐2150 — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. 
+  - [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) ⭐1618 — Open-source, self-hosted Slack alternative where your team and AI agents work together in 
+  - [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) ⭐1019 — Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Mus
