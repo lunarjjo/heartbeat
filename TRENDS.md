@@ -30,6 +30,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -153,3 +154,8 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [hitkeeen/blender-ai-mcp-addon](https://github.com/hitkeeen/blender-ai-mcp-addon) ⭐2150 — AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. 
   - [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) ⭐1618 — Open-source, self-hosted Slack alternative where your team and AI agents work together in 
   - [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) ⭐1019 — Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Mus
+- **2026-11-18** · topik `flutter` —
+  - [erkamyaman/unslopovich](https://github.com/erkamyaman/unslopovich) ⭐204 — Your app looks AI-generated. Dr. Unslopovich noticed. An agent skill that finds and fixes 
+  - [teikengstudio/XMPlus](https://github.com/teikengstudio/XMPlus) ⭐87 — XMPlus — Flutter 编写的喜马拉雅第三方客户端。
+  - [hsuehly/xiaoyu](https://github.com/hsuehly/xiaoyu) ⭐66 — 基于 Flutter 的开源数字人陪伴 App，支持 iOS 与 Android，接入 Vidu 和 Agora，实现实时语音、视频互动与快捷动作。
+  - [asimawdah/material-expressive-skill](https://github.com/asimawdah/material-expressive-skill) ⭐44 — An AI Agent Skill for designing, implementing, and reviewing production-ready interfaces w
