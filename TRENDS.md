@@ -31,6 +31,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -159,3 +160,5 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [teikengstudio/XMPlus](https://github.com/teikengstudio/XMPlus) ⭐87 — XMPlus — Flutter 编写的喜马拉雅第三方客户端。
   - [hsuehly/xiaoyu](https://github.com/hsuehly/xiaoyu) ⭐66 — 基于 Flutter 的开源数字人陪伴 App，支持 iOS 与 Android，接入 Vidu 和 Agora，实现实时语音、视频互动与快捷动作。
   - [asimawdah/material-expressive-skill](https://github.com/asimawdah/material-expressive-skill) ⭐44 — An AI Agent Skill for designing, implementing, and reviewing production-ready interfaces w
+- **2026-11-19** · topik `creative coding` —
+  - [mankidev/antialgorithm](https://github.com/mankidev/antialgorithm) ⭐384 — Claude Code skill that steers the model away from its first, most average pick in creative
