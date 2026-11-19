@@ -32,6 +32,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -162,3 +163,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [asimawdah/material-expressive-skill](https://github.com/asimawdah/material-expressive-skill) ⭐44 — An AI Agent Skill for designing, implementing, and reviewing production-ready interfaces w
 - **2026-11-19** · topik `creative coding` —
   - [mankidev/antialgorithm](https://github.com/mankidev/antialgorithm) ⭐384 — Claude Code skill that steers the model away from its first, most average pick in creative
+- **2026-11-20** · topik `llm tooling` —
+  - [agentes-chat/agentes-chat](https://github.com/agentes-chat/agentes-chat) ⭐1745 — Open-source, self-hosted Slack alternative where your team and AI agents work together in 
+  - [ysunyang4/Nexus](https://github.com/ysunyang4/Nexus) ⭐431 — Connect web AI assistants to local files, terminals, Git, and desktop tools through MCP, w
+  - [topapothecarycanal/ai--manus2.0](https://github.com/topapothecarycanal/ai--manus2.0) ⭐379 — AI Manus is a general-purpose AI Agent system that supports running various tools and oper
+  - [toppatronweave/ai--manus2.0](https://github.com/toppatronweave/ai--manus2.0) ⭐377 — AI Manus is a general-purpose AI Agent system that supports running various tools and oper
+  - [topconstableinlet67/ai--manus2.0](https://github.com/topconstableinlet67/ai--manus2.0) ⭐376 — AI Manus is a general-purpose AI Agent system that supports running various tools and oper
