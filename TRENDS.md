@@ -33,6 +33,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -169,3 +170,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [topapothecarycanal/ai--manus2.0](https://github.com/topapothecarycanal/ai--manus2.0) ⭐379 — AI Manus is a general-purpose AI Agent system that supports running various tools and oper
   - [toppatronweave/ai--manus2.0](https://github.com/toppatronweave/ai--manus2.0) ⭐377 — AI Manus is a general-purpose AI Agent system that supports running various tools and oper
   - [topconstableinlet67/ai--manus2.0](https://github.com/topconstableinlet67/ai--manus2.0) ⭐376 — AI Manus is a general-purpose AI Agent system that supports running various tools and oper
+- **2026-11-21** · topik `remotion` —
+  - [zephyr4123/snug](https://github.com/zephyr4123/snug) ⭐1135 — 让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU R
+  - [TomyJan/SnowLuma](https://github.com/TomyJan/SnowLuma) ⭐539 — Next Remote Protocol Framework.
+  - [ASDA580277/agentower-remote-control](https://github.com/ASDA580277/agentower-remote-control) ⭐153 — Agentower Remote Control: Community Bot for Discord and Telegram
+  - [sirioberati/ai-filmmaking-camera-control-seedance-2-5](https://github.com/sirioberati/ai-filmmaking-camera-control-seedance-2-5) ⭐143 — AI filmmaking camera control with Seedance 2.5 and three.js: direct the camera with a refe
+  - [enjinbdg/rustdesk-remote-workspace](https://github.com/enjinbdg/rustdesk-remote-workspace) ⭐93 — Connect to and manage remote desktop sessions within a structured workspace.
