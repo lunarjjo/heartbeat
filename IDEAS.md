@@ -142,7 +142,6 @@ Saat sesi aktif, agen mengambil dari sini untuk dikerjakan.
 
 
 
-
 - [2026-10-22 15:48 · p3] Generator badge SVG kustom ala shields.io (lib mini 1 file)
 - [2026-10-22 15:48 · p4] Workflow Actions auto-label issue berdasar kata kunci
 - [2026-10-22 21:26 · p5] Digest mingguan aktivitas GitHub pemilik → commit otomatis ke repo
@@ -504,3 +503,4 @@ Saat sesi aktif, agen mengambil dari sini untuk dikerjakan.
 - [2026-11-21 15:43 · p361] data viz × eksperimen 1-file — cuma pakai GitHub API
 - [2026-11-21 18:24 · p362] CLI tool × lib mini — beroutput SVG
 - [2026-11-21 22:13 · p363] Flutter × micro-tool — tanpa dependency eksternal
+- [2026-11-21 23:55 · p364] AI agent × template repo — dengan mode offline
