@@ -34,6 +34,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -176,3 +177,5 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [ASDA580277/agentower-remote-control](https://github.com/ASDA580277/agentower-remote-control) ⭐153 — Agentower Remote Control: Community Bot for Discord and Telegram
   - [sirioberati/ai-filmmaking-camera-control-seedance-2-5](https://github.com/sirioberati/ai-filmmaking-camera-control-seedance-2-5) ⭐143 — AI filmmaking camera control with Seedance 2.5 and three.js: direct the camera with a refe
   - [enjinbdg/rustdesk-remote-workspace](https://github.com/enjinbdg/rustdesk-remote-workspace) ⭐93 — Connect to and manage remote desktop sessions within a structured workspace.
+- **2026-11-22** · topik `minecraft bot` —
+  - (tidak ada hasil / API gagal — coba lagi besok)
