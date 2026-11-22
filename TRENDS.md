@@ -35,6 +35,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -179,3 +180,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [enjinbdg/rustdesk-remote-workspace](https://github.com/enjinbdg/rustdesk-remote-workspace) ⭐93 — Connect to and manage remote desktop sessions within a structured workspace.
 - **2026-11-22** · topik `minecraft bot` —
   - (tidak ada hasil / API gagal — coba lagi besok)
+- **2026-11-23** · topik `automation cli` —
+  - [juniordroid/better-discord-client](https://github.com/juniordroid/better-discord-client) ⭐340 — Better Discord Client: Remastered Desktop Experience for Modders
+  - [parthivvinod95-blip/clion-desktop](https://github.com/parthivvinod95-blip/clion-desktop) ⭐337 — Clion Desktop: Plugin Suite and Desktop Integration
+  - [samiirnor0-arch/clion-ide](https://github.com/samiirnor0-arch/clion-ide) ⭐336 — CLion IDE: Cross-Platform C and C++ Development Environment with Intelligent Code Assistan
+  - [bigtee9999/viruagent-cli](https://github.com/bigtee9999/viruagent-cli) ⭐153 — AI agent CLI for blog, Naver Cafe, Instagram, X and Reddit automation - /viruagent-cli
+  - [marketzy/codex-cli-repo-workbench](https://github.com/marketzy/codex-cli-repo-workbench) ⭐148 — Codex Cli Repo Workbench provides a local workspace for managing and inspecting Codex CLI 
