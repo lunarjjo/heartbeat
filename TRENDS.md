@@ -36,6 +36,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -186,3 +187,7 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [samiirnor0-arch/clion-ide](https://github.com/samiirnor0-arch/clion-ide) ⭐336 — CLion IDE: Cross-Platform C and C++ Development Environment with Intelligent Code Assistan
   - [bigtee9999/viruagent-cli](https://github.com/bigtee9999/viruagent-cli) ⭐153 — AI agent CLI for blog, Naver Cafe, Instagram, X and Reddit automation - /viruagent-cli
   - [marketzy/codex-cli-repo-workbench](https://github.com/marketzy/codex-cli-repo-workbench) ⭐148 — Codex Cli Repo Workbench provides a local workspace for managing and inspecting Codex CLI 
+- **2026-11-24** · topik `github actions` —
+  - [KJGX66F/unikraft-xray-node](https://github.com/KJGX66F/unikraft-xray-node) ⭐189 — Unikraft Cloud xray VLESS node: WS primary + XHTTP backup, direct + Cloudflare dual links.
+  - [brunnojob/devrescue](https://github.com/brunnojob/devrescue) ⭐162 — Developer friction, diagnosed. Local-first CI log triage, environment checks, reviewed fix
+  - [FossilizedProgrammer/niloofar_vpn](https://github.com/FossilizedProgrammer/niloofar_vpn) ⭐96 — Android client for the Firefox VPN engine: TUN or local proxy, Firefox Account sign-in, fi
