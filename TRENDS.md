@@ -37,6 +37,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -191,3 +192,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [KJGX66F/unikraft-xray-node](https://github.com/KJGX66F/unikraft-xray-node) ⭐189 — Unikraft Cloud xray VLESS node: WS primary + XHTTP backup, direct + Cloudflare dual links.
   - [brunnojob/devrescue](https://github.com/brunnojob/devrescue) ⭐162 — Developer friction, diagnosed. Local-first CI log triage, environment checks, reviewed fix
   - [FossilizedProgrammer/niloofar_vpn](https://github.com/FossilizedProgrammer/niloofar_vpn) ⭐96 — Android client for the Firefox VPN engine: TUN or local proxy, Firefox Account sign-in, fi
+- **2026-11-25** · topik `ai agent` —
+  - [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) ⭐1820 — 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code a
+  - [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) ⭐844 — 32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI se
+  - [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections) ⭐624 — Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike,
+  - [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) ⭐622 — Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL
+  - [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) ⭐557 — Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer
