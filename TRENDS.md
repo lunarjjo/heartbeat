@@ -38,6 +38,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -198,3 +199,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [ThreatDefence/agentic-attack-detections](https://github.com/ThreatDefence/agentic-attack-detections) ⭐624 — Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike,
   - [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) ⭐622 — Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL
   - [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) ⭐557 — Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer
+- **2026-11-26** · topik `flutter` —
+  - [pierridotite/mobile-agent-testers](https://github.com/pierridotite/mobile-agent-testers) ⭐2205 — 20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code a
+  - [hsuehly/xiaoyu](https://github.com/hsuehly/xiaoyu) ⭐343 — 基于 Flutter 的开源数字人陪伴 App，支持 iOS 与 Android，接入 Vidu 和 Agora，实现实时语音、视频互动与快捷动作。
+  - [Locorreia1992/native-instruments-reaktor-6](https://github.com/Locorreia1992/native-instruments-reaktor-6) ⭐116 — Native Instruments Reaktor 6 for Windows 10/11. Builds custom synths, samplers and effects
+  - [locvel/voite](https://github.com/locvel/voite) ⭐87 — Offline-first encrypted voice recorder and diary with local speech-to-text transcription
+  - [DearLicy/guomu](https://github.com/DearLicy/guomu) ⭐84 — 果幕 - 黄果短剧第三方 Flutter 客户端，支持 Android、iOS、离线缓存与网页预览
