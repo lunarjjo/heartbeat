@@ -39,6 +39,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -205,3 +206,5 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [Locorreia1992/native-instruments-reaktor-6](https://github.com/Locorreia1992/native-instruments-reaktor-6) ⭐116 — Native Instruments Reaktor 6 for Windows 10/11. Builds custom synths, samplers and effects
   - [locvel/voite](https://github.com/locvel/voite) ⭐87 — Offline-first encrypted voice recorder and diary with local speech-to-text transcription
   - [DearLicy/guomu](https://github.com/DearLicy/guomu) ⭐84 — 果幕 - 黄果短剧第三方 Flutter 客户端，支持 Android、iOS、离线缓存与网页预览
+- **2026-11-27** · topik `creative coding` —
+  - (tidak ada hasil / API gagal — coba lagi besok)
