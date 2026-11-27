@@ -40,6 +40,7 @@ Scan harian otomatis — topik berotasi tiap hari.
 
 
 
+
 - **2026-10-22** · topik `github actions` —
   - [jiayx/d2r-mobile-build](https://github.com/jiayx/d2r-mobile-build) ⭐381 — Reusable GitHub Actions source builds for jhaizhou-ops/d2r-mobile. Bring your own prepared
   - [aarondfrancis/fleet](https://github.com/aarondfrancis/fleet) ⭐144 — macOS app for a fleet of GitHub Actions self-hosted runner machines on a tailnet
@@ -208,3 +209,9 @@ Scan harian otomatis — topik berotasi tiap hari.
   - [DearLicy/guomu](https://github.com/DearLicy/guomu) ⭐84 — 果幕 - 黄果短剧第三方 Flutter 客户端，支持 Android、iOS、离线缓存与网页预览
 - **2026-11-27** · topik `creative coding` —
   - (tidak ada hasil / API gagal — coba lagi besok)
+- **2026-11-28** · topik `llm tooling` —
+  - [topapothecarycanal/ai--manus2.0](https://github.com/topapothecarycanal/ai--manus2.0) ⭐367 — AI Manus is a general-purpose AI Agent system that supports running various tools and oper
+  - [toppatronweave/ai--manus2.0](https://github.com/toppatronweave/ai--manus2.0) ⭐365 — AI Manus is a general-purpose AI Agent system that supports running various tools and oper
+  - [topconstableinlet67/ai--manus2.0](https://github.com/topconstableinlet67/ai--manus2.0) ⭐364 — AI Manus is a general-purpose AI Agent system that supports running various tools and oper
+  - [violetkomodolimit/ai--manus2.0](https://github.com/violetkomodolimit/ai--manus2.0) ⭐361 — AI Manus is a general-purpose AI Agent system that supports running various tools and oper
+  - [trackersnailgrip/ai--manus2.0](https://github.com/trackersnailgrip/ai--manus2.0) ⭐359 — AI Manus is a general-purpose AI Agent system that supports running various tools and oper
