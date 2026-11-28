@@ -83,7 +83,6 @@ Saat sesi aktif, agen mengambil dari sini untuk dikerjakan.
 
 
 
-
 - [2026-10-22 15:48 · p3] Generator badge SVG kustom ala shields.io (lib mini 1 file)
 - [2026-10-22 15:48 · p4] Workflow Actions auto-label issue berdasar kata kunci
 - [2026-10-22 21:26 · p5] Digest mingguan aktivitas GitHub pemilik → commit otomatis ke repo
@@ -504,3 +503,4 @@ Saat sesi aktif, agen mengambil dari sini untuk dikerjakan.
 - [2026-11-28 11:55 · p420] AI agent × lib mini — khusus untuk @kasyaira
 - [2026-11-28 14:16 · p421] data viz × skrip Python — dengan mode offline
 - [2026-11-28 20:15 · p422] video 9:16 × skrip Python — dengan estetika lunar navy/violet
+- [2026-11-28 21:28 · p423] bot Minecraft × eksperimen 1-file — cuma pakai GitHub API
